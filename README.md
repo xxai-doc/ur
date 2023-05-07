@@ -7,3 +7,4 @@
 * [سامنے کا کوڈ](https://github.com/xxai-art/web)
 * [مجموعی طور پر سائٹ کے لیے زبان کے پیک](https://github.com/xxai-art/web/tree/main/i18n)
 * [لاگ ان ماڈیولز کے لیے زبان کے پیک](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [ویب سائٹ کثیر لسانی دستاویزات](https://github.com/xxai-doc)
